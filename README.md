@@ -3,7 +3,7 @@ Tugas PBO
 
 Kelompok 6 
 - Arindry Eka P S
-- David Denovan
+- David Donovan M S
 - Hanif Widi P
 - Hilmi Reza M
 
